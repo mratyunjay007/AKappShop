@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00bcd4</color>
+    <color name="colorPrimaryDark">#0097A7</color>
+    <color name="textColor">#87cefa</color>
+    <color name="lightPrimatColor">#90B2EBF2</color>
+    <color name="secondaryText">#757575</color>
+    <color name="primaryText">#040404</color>
+    <color name="colorAccent">#ff9800</color>
+    <color name="dividerColor">#e2dddd</color>
+    <color name="speech_bubble_user">#90ff9800</color>
+    <color name="WhiteRadius">#ffffff</color>
+</resources>

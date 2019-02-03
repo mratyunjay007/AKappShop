@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ak-app shop</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_message">ThankYou for registering yourself with Infi.</string>
+    <string name="facebook_app_id">352649975589024</string>
+    <string name="fb_login_protocol_scheme">fb352649975589024</string>
+    <string name="RegisterHere">Do not have an account? REGISTER HERE</string>
+</resources>
